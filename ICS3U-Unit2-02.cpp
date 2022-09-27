@@ -15,10 +15,10 @@ int main() {
     double areaOfRectangle;
 
     //input
-    std::cout << "Input the width of the rectangle in millimeters: ";
-    std::cin >> widthOfRectangle;
     std::cout << "Input the length of the rectangle in millimeters: ";
     std::cin >> lengthOfRectangle;
+    std::cout << "Input the width of the rectangle in millimeters: ";
+    std::cin >> widthOfRectangle;
 
     //process and output
     std::cout << "The area of the rectangle is "
