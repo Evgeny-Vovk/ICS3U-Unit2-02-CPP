@@ -14,13 +14,13 @@ int main() {
     double perimeterOfRectangle;
     double areaOfRectangle;
 
-    //input
+    // input
     std::cout << "Input the length of the rectangle in millimeters: ";
     std::cin >> lengthOfRectangle;
     std::cout << "Input the width of the rectangle in millimeters: ";
     std::cin >> widthOfRectangle;
 
-    //process and output
+    // process and output
     std::cout << "The area of the rectangle is "
     << (widthOfRectangle * lengthOfRectangle) << "mm².\n";
     std::cout << "The perimeter of the circle is "
