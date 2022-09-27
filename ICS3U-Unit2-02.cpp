@@ -2,7 +2,7 @@
 //
 // Created by : Evgeny Vovk
 // Created on : September 2022
-// ICS3U-Unit1-03.cpp File, learning input processing and output in C++.
+// ICS3U-Unit2-02.cpp File, learning input processing and output in C++.
 
 #include <cmath>
 #include <iostream>
