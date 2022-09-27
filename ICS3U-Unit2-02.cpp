@@ -1,8 +1,8 @@
-// Copyright(c) 2022 Evgeny Vovk All rights reserved
+// Copyright(c) 2022 Evgeny Vovk All rights reserved.
 //
 // Created by : Evgeny Vovk
 // Created on : September 2022
-// ICS3U-Unit1-03.cpp File, learning input processing and output in C++
+// ICS3U-Unit1-03.cpp File, learning input processing and output in C++.
 
 #include <cmath>
 #include <iostream>
