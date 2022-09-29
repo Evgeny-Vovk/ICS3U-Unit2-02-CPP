@@ -23,7 +23,7 @@ int main() {
     // process and output
     std::cout << "The area of the rectangle is "
     << (widthOfRectangle * lengthOfRectangle) << "mm².\n";
-    std::cout << "The perimeter of the circle is "
+    std::cout << "The perimeter of the rectangle is "
     << (2 * (widthOfRectangle + lengthOfRectangle)) << "mm.";
 
     std::cout << "\n\nDone.\n";
